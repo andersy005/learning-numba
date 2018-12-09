@@ -1,0 +1,21 @@
+name: numba
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - jupyterlab
+  - watermark
+  - numba 
+  - dask 
+  - matplotlib
+  - cupy
+  - scipy 
+  - numpy
+  - cudatoolkit
+  - rise
+  - numpy
+  - snakeviz
+  - line_profiler
+  - cython
+  - jupyter_contrib_nbextensions
