@@ -12,7 +12,7 @@ dependencies:
   - cupy
   - scipy 
   - numpy
-  - cudatoolkit
+  - cudatoolkit==9.2
   - rise
   - numpy
   - snakeviz
